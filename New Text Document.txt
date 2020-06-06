@@ -1,6 +1,0 @@
-Firebase Hosting Url:
-https://fk-solutions.web.app/index.html
-
-
-GitHub Repo:
-https://github.com/fk-faizan/fk-solutions.git
